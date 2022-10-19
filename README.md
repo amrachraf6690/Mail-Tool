@@ -9,3 +9,9 @@ This tool is to test mail to check if it can recieve mail or not. "This tool use
 # Tool 2 (Email Sender)
 
 This tool is to send mail using local SMTP server. This tool can help you with the 'contact us' form.
+
+
+# Credits:
+
+
+{ https://www.facebook.com/amrachraf6690 }
